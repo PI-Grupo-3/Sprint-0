@@ -21,3 +21,4 @@ Desistência da compra de acordo com a legislação vigente
 
 **Logo:**
 
+<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Logo%20revisado.png">
