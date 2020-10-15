@@ -3,6 +3,10 @@
 Desenvolver a identidade visual do site, regra de negócio e protótipos para apresentar um panorama geral ao cliente. 
 
 
+
+
+
+
 ## Objetivos concluídos
 
 **Links para acesso aos protótipos**
@@ -10,7 +14,6 @@ Desenvolver a identidade visual do site, regra de negócio e protótipos para ap
 > [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
   
 > [Usuário do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=160%3A2242&scaling=min-zoom)
-
 
 
 **Regra de negócio**
