@@ -3,7 +3,7 @@
 Desenvolver a identidade visual do site, regra de negócio e protótipos para apresentar um panorama geral ao cliente. 
 
 
-## Trabalhos realizados
+## Objetivos atingidos
 
 **Links para acesso aos protótipos**
 
