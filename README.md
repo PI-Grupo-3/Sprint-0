@@ -1,16 +1,17 @@
 ## Planejamento
 
-Criar a identidade visual do site, regra de negócio e protótipos para apresentar a ideia geral do site ao cliente. 
+Desenvolver a identidade visual do site, regra de negócio e protótipos para apresentar um panorama geral ao cliente. 
 
-## 
-Nos links abaixo é possível acessar os protótipos de administrador e usuário
+## Trabalhos realizados
+
+**Links para acesso aos protótipos**
 
 > [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
   
 > [Usuário do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=160%3A2242&scaling=min-zoom)
 
 
-**Regra de negócio:**
+**Regra de negócio**
 
 Amostras gratuitas de conteúdo mediante cadastro de e-mail para posterior ação de marketing
 Pagamento através de intermediador
@@ -19,6 +20,6 @@ Acesso vitalício e ilimitado
 Desistência da compra de acordo com a legislação vigente
 
 
-**Logo:**
+**Logo**
 
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Logo%20revisado.png">
