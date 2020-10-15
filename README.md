@@ -1,5 +1,8 @@
+## Planejamento
 
-Para a sprint 0 desenvolvemos a identidade visual do site, regra de negócio e protótipos para apresentar a ideia geral do site ao cliente. 
+Criar a identidade visual do site, regra de negócio e protótipos para apresentar a ideia geral do site ao cliente. 
+
+## 
 Nos links abaixo é possível acessar os protótipos de administrador e usuário
 
 > [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
