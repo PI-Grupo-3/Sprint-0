@@ -1,4 +1,4 @@
-## Planejamento
+## Objetivos planejados
 
 Desenvolver a identidade visual do site, regra de negócio e protótipos para apresentar um panorama geral ao cliente. 
 
